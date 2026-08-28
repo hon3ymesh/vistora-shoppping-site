@@ -1,7 +1,3 @@
-<div align="center">
-
-<img width="1200" height="475" alt="Google AI Studio" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-
 # Built with Google AI Studio
 
 ### Build that wild idea with Google AI Studio
